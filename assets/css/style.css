@@ -179,14 +179,18 @@ p{
 	padding-top: 50px;
 }
 
-img{
+.me{
 	border-radius: 50%;
 	text-align: center;
 	border:5px solid white;
 }
 
 
+.caps{
 
+	width: 400px;
+	height: 250px;
+}
 
 
 
