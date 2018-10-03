@@ -8,12 +8,12 @@ body{
 }
 
 .nav{
-/*	float:right;*/
+
 	margin-top: 10vh;
 	position: fixed;
 	right: 0;
 	color: black;
-	z-index: 9999999;
+	z-index: 99;
 }
 
 
@@ -147,9 +147,6 @@ p{
 	padding-bottom: 100px;
 }
 
-/*.skillTools{
-	border:1px solid white;
-}*/
 
 .autocad{
 	height: 75px;
@@ -245,24 +242,12 @@ p{
 		font-size: 15px;
 		text-align: center;
 	}
-	.portfolio{
-		font-size: 30px;
-		letter-spacing: 2px;
-		border: 1px solid white;
-		padding: 15px 21%;
-		text-align: center;
 
-	}
 
 	.project{
 		margin-top: 3vh;
 	}
 
-	#icon{
-		position: relative;
-		top: -50px;
-		left: -120px;
-	}
 
 	a:hover{
 	color: #08fdd8;
